@@ -11,7 +11,7 @@ iv. MM
 i. GMA
 ii. MM
 
-4. Script for exploring the accuracy of average kinetic parameter estimate based on multiple initial seed solutions are in this folder: 'Multiple seeds'. 
+4. Script for exploring the accuracy of average kinetic parameter estimate based on multiple initial seed solutions are in this folder: 'Multiple seeds/'. 
 
 5. The synthetic data generated from various rate law formulations for the purpose of parameter estimation:
 i. Data.zip
