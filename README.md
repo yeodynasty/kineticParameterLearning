@@ -7,7 +7,7 @@ ii. GMA
 iii. Linlog
 iv. MM
 
-3. The synthetic data generated from various rate law formulations for the purpose of parameter estimation
+3. The synthetic data generated from various rate law formulations for the purpose of parameter estimation:
 i. Data.zip
 
-4. Script for exploring the effect of taking the average of kinetic parameter estimates based on multiple number of initial seed solutions are in the 
+4. Script for exploring the effect of taking the average of kinetic parameter estimates based on multiple number of initial seed solutions are in this folder: 'Multiple seeds'. 
